@@ -29,6 +29,19 @@ layout: default
       </div>
     {% endif %} -->
 
+    <!-- {% if page.categories %}
+      <div class="hidden md:block">
+        {% for category in page.categories %}
+          {% include category-badge.html %}
+        {% endfor %}
+      </div>
+    {% endif %} -->
+  </div>
+
+  <div class="w-full md:w-9/12">
+    <div class="prose">
+      {{ content }}
+    </div>
     {% if page.categories %}
       <div class="hidden md:block">
         {% for category in page.categories %}
@@ -36,12 +49,6 @@ layout: default
         {% endfor %}
       </div>
     {% endif %}
-  </div>
-
-  <div class="w-full md:w-9/12">
-    <div class="prose">
-      {{ content }}
-    </div>
   </div>
 
 </div>
