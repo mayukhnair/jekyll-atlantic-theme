@@ -38,20 +38,13 @@ layout: default
     {% endif %}
   </div>
 
-  <div class="w-full md:w-9/12">
-    <div class="prose">
-      {{ content }}
-    </div>
-    {% if page.categories %}
-      <div class="hidden md:block">
-        {% for category in page.categories %}
-          {% include category-badge.html %}
-        {% endfor %}
-      </div>
-    {% endif %}
-  </div>
-
 </div> -->
+
+<div class="w-full md:w-9/12">
+  <div class="prose">
+    {{ content }}
+  </div>
+</div>
 
 {% if page.categories %}
   <div class="py-6 mt-6 border-t-2 block md:hidden">
