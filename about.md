@@ -1,5 +1,5 @@
 ---
-layout: basic
+layout: about
 title: "About Me"
 date: 2018-11-28T15:15:34+10:00
 permalink: "/about/"
@@ -22,10 +22,10 @@ Either that, or poor decision making by my parents.
 
 ## Quote to live & die by?
 
-> "It matters not how strait the gate,
->     How charged with punishments the scroll,
-> I am the master of my fate,
->     I am the captain of my soul."
+>"It matters not how strait the gate,
+>   How charged with punishments the scroll,
+>I am the master of my fate,
+>   I am the captain of my soul."
 >
 > *- Invictus, William Ernest Henry*
 
