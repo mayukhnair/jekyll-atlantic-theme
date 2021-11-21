@@ -1,41 +1,36 @@
 ---
 layout: basic
-title: "About Us"
+title: "About Me"
 date: 2018-11-28T15:15:34+10:00
 permalink: "/about/"
-description: "Business plan hackathon handshake responsive web design."
-image: "https://source.unsplash.com/Dq5P6eWZXNY/1600x900"
+description: ""
+image: "/assets/images/mayukh-circle.jpg"
 ---
 
-# Creating Modern Websites
+# Who am I?
+Guy who builds data-driven software and sets up cloud infrastructure for that addictive monthly salary. Take that away and I like to read internet journalism and Wikipedia too much, eat all the unhealthy stuff with relish, binge watch YouTube, occasionally cycle or play badminton, and try to finish at least one video game a year.
 
-Web design encompasses many different skills and disciplines in the production and maintenance of websites.
+## Where am I?
 
-Often many individuals will work in teams covering different aspects of the design process, although some designers will cover them all. Web design partially overlaps web engineering in the broader scope of web development.
+All over the Delhi National Capital Region in India as far as the Delhi Metro can take me.
 
-## What is Web Design?
+## Why am I?
 
-User experience is about how a user interacts with, and experiences, a particular product, system or service. As a UX designer, you should consider the Why, What and How of product use.
+God willed it.
 
-## Front-end Development
+Either that, or poor decision making by my parents.
 
-The What addresses the things people can do with a product—its functionality. Finally, the How relates to the design of functionality in an accessible and aesthetically pleasant way. UX designers start with the Why before determining the What and then, finally, the How in order to create products that users can form meaningful experiences with. In software designs, you will need to ensure the product’s “substance” comes through an existing device and offers a seamless, fluid experience.
+## Quote to live & die by?
 
-> As a UX designer, you should consider the Why, What and How of product use.
+> "It matters not how strait the gate,
+>     How charged with punishments the scroll,
+> I am the master of my fate,
+>     I am the captain of my soul."
+>
+> *- Invictus, William Ernest Henry*
 
-Web designers are expected to have an awareness of usability and if their role involves creating markup then they are also expected to be up to date with web accessibility guidelines.
+## Why are you so strongly opinionated online?
 
-## Design Systems
-
-A Design System is a set of interconnected patterns and shared practices coherently organized to aid in digital product design and development of products such as apps or websites.
-
-## Process
-
-There are two primary jobs involved in creating a website: the web designer and web developer, who often work closely together on a website. The web designers are responsible for the visual aspect, which includes the layout, coloring and typography of a web page.
-
-- User experience research
-- Visual design and illustration
-- Programming and coding
+मेरी मर्जी। 
 
 
-Web designers will also have a working knowledge of markup languages such as HTML and CSS, although the extent of their knowledge will differ from one web designer to another.
