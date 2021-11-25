@@ -6,8 +6,8 @@ authors: ["Mayukh Nair"]
 categories: ["Whatever I watch"]
 tags: ["national anthems","youtube","patriotic songs","nationalist songs"]
 description: A celebration of music as the most powerful tool to bind a nation.
-thumbnail: "assets/images/anthems-flags.jpg"
-image: "assets/images/anthems-flags.jpg"
+thumbnail: "assets/images/posts/2021/anthems-flags.jpg"
+image: "assets/images/posts/2021/anthems-flags.jpg"
 ---
 ## *Hello* to the *World* 
 
@@ -72,4 +72,4 @@ This one right above got me into looking forward to any anthem, not just my own 
 
 I already had an impromptu playlist of the renditions that stirred my heart proper in my head. This blog and this article provided the push I needed to finally make it a playlist which, I hope, many come to enjoy as they stumble upon it.
 
-<iframe width="720" height="480" src="https://www.youtube.com/embed/videoseries?list=PLyWV78uazzEfbC_GSYMnKGuA4UNqLwfRe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLyWV78uazzEfbC_GSYMnKGuA4UNqLwfRe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
