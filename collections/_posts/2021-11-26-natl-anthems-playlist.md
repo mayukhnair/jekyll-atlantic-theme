@@ -6,8 +6,8 @@ authors: ["Mayukh Nair"]
 categories: ["Whatever I watch"]
 tags: ["national anthems","youtube","patriotic songs","nationalist songs"]
 description: A celebration of music as the most powerful tool to bind a nation.
-thumbnail: "assets/images/posts/2021/anthems-flags.jpg"
-image: "assets/images/posts/2021/anthems-flags.jpg"
+thumbnail: "/assets/images/posts/2021/anthems-flags.jpg"
+image: "/assets/images/posts/2021/anthems-flags.jpg"
 ---
 ## *Hello* to the *World* 
 
@@ -37,7 +37,7 @@ To me, it's a short example that introduces what a country aspires to be or how 
 
 So here it is: my own curated playlist of national anthems and patriotic songs on YouTube!
 
-![A screenshot of my Anthems playlist on YouTube.](assets/images/posts/2021/playlist-shot.png)
+![A screenshot of my Anthems playlist on YouTube.](/assets/images/posts/2021/playlist-shot.png)
 
 _(u mad about image bro? [click here](https://www.youtube.com/playlist?list=PLyWV78uazzEfbC_GSYMnKGuA4UNqLwfRe) to directly open it in YouTube, or just scroll to the end for a taste.)_
 
