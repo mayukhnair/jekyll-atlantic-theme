@@ -8,6 +8,7 @@ tags: ["national anthems","youtube","patriotic songs","nationalist songs"]
 description: A celebration of music as the most powerful tool to bind a nation.
 thumbnail: "/assets/images/posts/2021/anthems-flags.jpg"
 image: "/assets/images/posts/2021/anthems-flags.jpg"
+comments: true
 ---
 ## *Hello* to the *World* 
 
