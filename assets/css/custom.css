@@ -7,5 +7,5 @@ img.head-image {
 }
 
 .prose{
-    margin: auto;
+    max-width: 100%;
 }
