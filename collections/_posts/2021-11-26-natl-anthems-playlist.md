@@ -71,6 +71,10 @@ This one right above got me into looking forward to any anthem, not just my own 
 
 ## End rant, the playlist itself for your consumption
 
-I already had an impromptu playlist of the renditions that stirred my heart proper in my head. This blog and this article provided the push I needed to finally make it a playlist which, I hope, many come to enjoy as they stumble upon it.
+I already had an impromptu playlist of the renditions that stirred my heart proper in my head. This blog and this article provided the push I needed to finally make it a playlist. 
+
+Each performance of an anthem has its beauty and hence you'll find more than one rendition of the same across the playlist - in no particular order apart from preventing a repeat, or indicating any preference/endorsement - you won't see me in North Korea anytime soon, lol.
+
+I hope that many come to enjoy as they stumble upon it, and you do, too.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLyWV78uazzEfbC_GSYMnKGuA4UNqLwfRe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
