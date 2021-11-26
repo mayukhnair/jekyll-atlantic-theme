@@ -1,4 +1,4 @@
-<div class="logo hidden block">
+<div class="logo md:block">
   <a class="flex items-center hover:opacity-70 transition duration-300 ease-in-out" href="{{ site.baseurl }}">
     {% if site.logo.logo_desktop_image %}
     <img class="mr-2" height="{{ site.logo.logo_desktop_height }}" width="{{ site.logo.logo_desktop_width }}"
@@ -9,7 +9,7 @@
     {% endif %}
   </a>
 </div>
-<div class="logo-mobile block md:hidden">
+<div class="logo-mobile block hidden">
   <a class="flex items-center hover:opacity-70 transition duration-300 ease-in-out" href="{{ site.baseurl }}">
     {% if site.logo.logo_mobile_image %}
     <img height="{{ site.logo.logo_mobile_height }}" width="{{ site.logo.logo_mobile_width }}"
