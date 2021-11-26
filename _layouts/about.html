@@ -3,7 +3,7 @@ layout: default
 body_classes: page-basic
 ---
 
-{% include heading.html heading=page.title description=page.description align="center" %}
+{% include heading.html heading=page.title description=page.description %}
 
 {% if page.authors %}
   <div class="flex flex-col pb-3 md:hidden">
@@ -15,11 +15,10 @@ body_classes: page-basic
   </div>
 {% endif %}
 
-<img width="100" height="100" src="{{ page.image }}"/>
-
 <div class="flex flex-col md:flex-row py-6 md:py-12">
 
   <div class="w-full mx-auto md:w-9/12">
+    <img width="100" height="100" src="{{ page.image }}"/>
     <div class="prose">
       {{ content }}
     </div>
