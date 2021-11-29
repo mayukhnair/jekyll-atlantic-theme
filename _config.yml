@@ -5,6 +5,8 @@ collections_dir: collections
 markdown: kramdown
 highlighter: rouge
 
+url: "https://mealsumm.com"
+
 sass:
   indentWidth: 4
   style: compact
@@ -31,6 +33,7 @@ plugins:
   - jekyll-environment-variables
   - jekyll-postcss
   - jekyll-paginate
+  - jekyll-sitemap
 
 paginate: 3
 paginate_path: /blog/page:num/
