@@ -5,7 +5,7 @@ collections_dir: collections
 markdown: kramdown
 highlighter: rouge
 
-url: "https://mealsumm.com"
+url: "https://mayukhnair.com"
 
 sass:
   indentWidth: 4
